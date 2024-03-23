@@ -1,4 +1,4 @@
-#B3P2Augur
+# B3P2Augur
 B3P2Augur is a blood-brain barrier penetrating peptide(B3PPs) classification prediction tool that can determine whether an input amino acid sequence belongs to B3PPs.
 
 # Data
