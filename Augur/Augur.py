@@ -834,7 +834,7 @@ def calculate():
     print(execution_time, "s")
 
 root = tk.Tk()
-root.title("B3PPs Predictor")
+root.title("Augur")
 
 input_label = tk.Label(root, text="Please enter your FASTA sequence：")
 input_label.grid(row=0, column=0, sticky=tk.W)
